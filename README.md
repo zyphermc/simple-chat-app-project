@@ -13,6 +13,6 @@
    npm install
    ```
 3. Start Dev Server
-  ```sh
-  npm start
-  ```
+   ```sh
+   npm start
+   ```
